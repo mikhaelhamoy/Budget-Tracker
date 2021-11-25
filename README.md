@@ -5,7 +5,7 @@
     
 ## Description
   
-An application that with track expenses and deposits with or without internet connections.
+An application that will track expenses and deposits with or without internet connections.
 
 ## Table of Contents
   
